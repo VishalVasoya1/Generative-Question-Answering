@@ -1,0 +1,7 @@
+pipfile
+*.lock
+
+.chroma
+models/
+notebooks/.chroma
+llm-env
